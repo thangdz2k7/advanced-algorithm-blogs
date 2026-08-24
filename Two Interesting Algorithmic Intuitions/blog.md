@@ -56,12 +56,12 @@ This idea appears in:
 
 ### Practice problems
 
-https://cses.fi/problemset/task/1139
-https://codeforces.com/problemset/problem/600/E
-https://qoj.ac/problem/8890
-https://codeforces.com/problemset/problem/1009/F
-https://qoj.ac/problem/31
-https://codeforces.com/problemset/problem/375/D
+* https://cses.fi/problemset/task/1139
+* https://codeforces.com/problemset/problem/600/E
+* https://qoj.ac/problem/8890
+* https://codeforces.com/problemset/problem/1009/F
+* https://qoj.ac/problem/31
+* https://codeforces.com/problemset/problem/375/D
 
 ---
 
@@ -160,7 +160,7 @@ Still, for the standard tree-knapsack merge, the pair-counting argument is the m
 
 ### Practice Problems
 
-https://codeforces.com/problemset/problem/815/C
-https://vjudge.net/contest/844053#overview
+* https://codeforces.com/problemset/problem/815/C
+* https://vjudge.net/contest/844053#overview
 
 ---
